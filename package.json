@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Jose-Rivero23/git-01/issues"
   },
-  "homepage": "https://github.com/Jose-Rivero23/git-01#readme"
+  "homepage": "https://github.com/Jose-Rivero23/git-01#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }
